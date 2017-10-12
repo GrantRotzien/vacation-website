@@ -1,0 +1,10 @@
+img {
+  display: block;
+  margin: 0 auto;
+  padding-bottom: 10px;
+}
+
+.cursive {
+  text-align: center;
+  font-family: cursive;
+}
